@@ -1,0 +1,13 @@
+{
+  "VERSION": "1.0.0",
+  "JWT_EXPIRES_IN_MINUTES": 15,
+  "REFRESH_JWT_EXPIRES_IN_MINUTES": 300,
+  "CONNECTION_TOKEN": "abc",
+  "JWT_SECRET": "qwer",
+  "REFRESH_JWT_SECRET": "reqw",
+  "ROOT_USER": "root",
+  "ROOT_PASSWORD": "memphis",
+  "DOCKER_ENV": true,
+  "USER_PASS_BASED_AUTH": true,
+  "MEMPHIS_HOST": "localhost"
+}

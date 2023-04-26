@@ -1,0 +1,6 @@
+.env
+nats-server
+rest-gateway
+data/*
+!data/.keep
+conf/config.json
